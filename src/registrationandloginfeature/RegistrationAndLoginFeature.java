@@ -120,9 +120,9 @@ public class RegistrationAndLoginFeature {
         }
 
         // ── Save and confirm ──────────────────────────────────────────────────
-        username     = enteredUsername;
-        password     = enteredPassword;
-        cellphone    = enteredCell;
+        username = enteredUsername;
+        password = enteredPassword;
+        cellphone = enteredCell;
         isRegistered = true;
 
         System.out.println("Successfully registered.");
