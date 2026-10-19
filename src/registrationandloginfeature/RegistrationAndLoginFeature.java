@@ -114,7 +114,7 @@ public class RegistrationAndLoginFeature {
             } else {
             System.out.println("");
                  System.out.println("Cell phone number incorrectly formatted " +
-                        "or does not contain an international code.");
+                        "or does not contain international code.");
                 System.out.println("");
             }
         }
